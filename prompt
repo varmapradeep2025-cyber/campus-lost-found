@@ -3,7 +3,30 @@ ROLE:
 You are an award-winning UI/UX Designer, Product Designer, Front-End Developer, and College Student preparing a hackathon submission.
 
 OBJECTIVE:
-Design a professional, modern, and mobile-first Lost & Found Platform for Amity University Madhya Pradesh that helps students report, search, and recover lost items efficiently.
+Design a professional, modern, and mobile-first Lost & Found Platform for Amity University Madhya Pradesh that helps students report,
+search, and recover lost items efficiently.
+Background
+
+Lost and misplaced items are a common challenge in university campuses.
+Students often lose personal belongings such as laptops, ID cards, wallets, chargers, notebooks, and other valuable items.
+Traditional methods of recovering these items rely on notice boards, social media posts, or word-of-mouth communication,
+which can be inefficient and time-consuming.
+
+Project Goal
+
+The goal of this project is to design a centralized Lost & Found Platform that simplifies the reporting and recovery process. 
+The platform should provide students with an intuitive interface for submitting lost item reports, searching existing records, and connecting with item owners or finders.
+The solution should improve item recovery rates while reducing manual effort.
+
+Target Audience
+
+The primary users of the platform are university students, faculty members, and campus administration staff. 
+The platform should be easy to use for individuals with varying levels of technical expertise and should prioritize accessibility, usability, and responsiveness across different devices.
+
+Expected Impact
+
+By implementing a digital Lost & Found Platform, the university can create a more organized and transparent system for managing lost belongings. 
+The platform aims to save time, improve communication, increase recovery success rates, and enhance the overall campus experience for students and staff.
 
 DELIVERABLES:
 
