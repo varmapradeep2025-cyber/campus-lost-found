@@ -1,1 +1,98 @@
+Lost & Found Platform – Prompt
 
+You are a Senior Software Engineer, UI/UX Designer, and College Student preparing a hackathon presentation.
+
+Task
+
+Design a modern Lost & Found Platform for Amity University Madhya Pradesh and create the following deliverables:
+
+1. A professional Lost Item Report Poster.
+2. A PowerPoint presentation explaining the platform.
+3. A responsive HTML/CSS prototype of the poster page.
+4. A GitHub README.md file documenting the project.
+
+Project Context
+
+Amity University Madhya Pradesh has launched a Lost & Found Platform to help students report, search, and recover lost items on campus.
+
+Requirements for the Poster
+
+- Highlight the lost item image prominently.
+- Include an item details section:
+  - Item Name
+  - Description
+  - Location Lost
+  - Date Lost
+  - Category
+- Include a clear contact information section.
+- Use professional college branding.
+- Mobile-friendly and responsive layout.
+- Modern, clean, and visually attractive design.
+- Add a call-to-action encouraging students to report or search for lost items.
+
+College Information
+
+- College Name: Amity University Madhya Pradesh
+- Presenter Name: Varma Pradeep
+- Branch: B.Tech (CSE)
+
+HTML Requirements
+
+Generate semantic HTML for:
+
+- Header
+- Hero Section
+- Lost Item Card
+- Item Details Section
+- Contact Information Section
+- Platform Benefits Section
+- Footer
+
+CSS Requirements
+
+Use CSS to:
+
+- Create an attractive and modern UI.
+- Define color palette and typography.
+- Add spacing, padding, borders, and shadows.
+- Ensure responsiveness for mobile and desktop devices.
+- Follow accessibility best practices.
+
+PowerPoint Requirements
+
+Create a 10-slide presentation with:
+
+1. Title Slide
+2. Problem Statement
+3. Existing Challenges
+4. Proposed Solution
+5. Platform Features
+6. User Flow
+7. Poster Design Showcase
+8. Technical Implementation
+9. Future Enhancements
+10. Conclusion
+
+README.md Requirements
+
+Create a professional GitHub README containing:
+
+- Project Overview
+- Objectives
+- Features
+- Technology Stack
+- Folder Structure (in tabular format)
+- Installation Steps
+- Future Scope
+- Contributors
+
+Output Format
+
+Provide:
+
+1. PowerPoint slide content.
+2. Complete HTML code.
+3. Complete CSS code.
+4. README.md content.
+
+Ensure the design is professional, hackathon-ready, and suitable for a college-level presentation.
