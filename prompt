@@ -1,34 +1,35 @@
-Lost & Found Platform – Prompt
 
-You are a  UI/UX Designer, and College Student preparing a hackathon presentation.
+ROLE:
+You are an award-winning UI/UX Designer, Product Designer, Front-End Developer, and College Student preparing a hackathon submission.
 
-Task
+OBJECTIVE:
+Design a professional, modern, and mobile-first Lost & Found Platform for Amity University Madhya Pradesh that helps students report, search, and recover lost items efficiently.
 
-Design a modern Lost & Found Platform for Amity University Madhya Pradesh and create the following deliverables:
+DELIVERABLES:
 
-1. A professional Lost Item Report Poster.
-2. A PowerPoint presentation explaining the platform.
-3. A responsive HTML/CSS prototype of the poster page.
-4. A GitHub README.md file documenting the project.
+Lost Item Report Poster
+Responsive HTML/CSS Prototype
+GitHub README Documentation
+Presentation Content
 
-Project Context
+DESIGN PRINCIPLES:
 
-Amity University Madhya Pradesh has launched a Lost & Found Platform to help students report, search, and recover lost items on campus.
+Clean and modern UI
+Mobile-first responsive design
+Accessibility-friendly
+Professional university branding
+Clear visual hierarchy
+Attractive card-based layout
+High readability
 
-Requirements for the Poster
+QUALITY CHECK:
+Before generating the output, verify:
 
-- Highlight the lost item image prominently.
-- Include an item details section:
-  - Item Name
-  - Description
-  - Location Lost
-  - Date Lost
-  - Category
-- Include a clear contact information section.
-- Use professional college branding.
-- Mobile-friendly and responsive layout.
-- Modern, clean, and visually attractive design.
-- Add a call-to-action encouraging students to report or search for lost items.
+All requirements are covered
+Design is visually consistent
+Layout is responsive
+Content is suitable for a hackathon presentation
+README is professional and complete
 
 College Information
 
